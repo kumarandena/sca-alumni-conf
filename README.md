@@ -10,6 +10,8 @@ SCA Alumni Conf is a one-day developer event focused on mobility, web, networks,
 
 # Nativescript-quiz-demo
  
+ * Sketch Cloud Mockups Link - https://sketch.cloud/s/8p14Y
+
  * Repo Link - https://github.com/williamjuan027/nativescript-quiz-demo 
 
  * Playground link - https://play.nativescript.org/?template=play-ng&id=k1C2bj&v=30
