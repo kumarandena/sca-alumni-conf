@@ -2,16 +2,16 @@
 
 SCA Alumni Conf is a one-day developer event focused on mobility, web, networks, and automation ecosystems organizing by Society of Computer Architects Alumni, UCEK.
 
-* Site Link - https://kumarandena.github.io/sca-alumni-conf/
+* Site Link - https://goo.gl/qLnifT
 
 * Presentaion Link - https://slides.com/kumaran/nativescript_intro/
 
 # Demo App
 
 # Nativescript-quiz-demo
- 
- * Sketch Cloud Mockups Link - https://sketch.cloud/s/8p14Y
 
  * Repo Link - https://github.com/williamjuan027/nativescript-quiz-demo 
 
- * Playground link - https://play.nativescript.org/?template=play-ng&id=k1C2bj&v=30
+ * Detailed docs - https://github.com/williamjuan027/nativescript-quiz-demo#nativescript-quiz-demo
+
+ * Playground link - https://play.nativescript.org/?template=play-ng&id=LhwHnA
